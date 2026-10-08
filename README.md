@@ -4,7 +4,7 @@ Satyajit Puhan · Institute of Physics, Academia Sinica, Taipei
 
 *I am doing this for fun.*
 
-> **Please note.** If you use any of the figures or the code, please cite this repository. If you follow research ethics, I will be happy to work with you. Contact: puhansatyajit@gmail.com · WhatsApp +886-919 479 591
+> **Please note.** If you use any of the figures or the code, please cite this repository. If you follow research ethics, I will be happy to work with you and to share the code along with the notes. Contact: puhansatyajit@gmail.com · WhatsApp +886-919 479 591
 
 The deuteron is the simplest nucleus, a proton and a neutron bound by 2.2 MeV, and it is a surprisingly rich system when you look at it
 on the light front. Here I take every realistic deuteron wave function I could get hold of (19 of them, from the Super Soft Core of 1973 to the
@@ -78,6 +78,6 @@ Each folder has its own README with the paper reference. The results in a folder
 
 ---
 
-The code is kept private for now. It is available on request.
+The code is kept private for now. I will be happy to share it along with the notes.
 
 © 2026 Satyajit Puhan. All rights reserved: the figures may not be reused without permission.

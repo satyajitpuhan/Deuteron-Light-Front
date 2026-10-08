@@ -5,7 +5,7 @@
 
 **What kind of model it is:** local potential with 18 operators, fitted to the NN data with χ²/datum ≈ 1. D-state probability 5.76%.
 
-> **Please note.** If you use any of the figures or the code, please cite this repository. If you follow research ethics, I will be happy to work with you. Contact: puhansatyajit@gmail.com · WhatsApp +886-919 479 591
+> **Please note.** If you use any of the figures or the code, please cite this repository. If you follow research ethics, I will be happy to work with you and to share the code along with the notes. Contact: puhansatyajit@gmail.com · WhatsApp +886-919 479 591
 
 ## Please read this first
 
