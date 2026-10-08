@@ -3,7 +3,9 @@
 **Authors of the wave function:** R. B. Wiringa, V. G. J. Stoks, R. Schiavilla  
 **Reference:** R. B. Wiringa, V. G. J. Stoks, R. Schiavilla, PRC 51, 38 (1995)
 
-**What kind of model it is:** used in deuteron_lf (cross-check). D-state probability 5.76%.
+**What kind of model it is:** local potential with 18 operators, fitted to the NN data with χ²/datum ≈ 1. D-state probability 5.76%.
+
+> **Please note.** If you use any of the figures or the code, please cite this repository. If you follow research ethics, I will be happy to work with you. Contact: puhansatyajit@gmail.com · WhatsApp +886-919 479 591
 
 ## Please read this first
 

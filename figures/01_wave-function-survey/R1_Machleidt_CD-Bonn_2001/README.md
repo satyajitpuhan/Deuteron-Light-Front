@@ -3,7 +3,9 @@
 **Authors of the wave function:** R. Machleidt  
 **Reference:** R. Machleidt, PRC 63, 024001 (2001)
 
-**What kind of model it is:** used in deuteron_lf (main model). D-state probability 4.86%.
+**What kind of model it is:** charge-dependent, nonlocal one-boson-exchange potential fitted to the NN data with χ²/datum ≈ 1. D-state probability 4.86%.
+
+> **Please note.** If you use any of the figures or the code, please cite this repository. If you follow research ethics, I will be happy to work with you. Contact: puhansatyajit@gmail.com · WhatsApp +886-919 479 591
 
 ## Please read this first
 
