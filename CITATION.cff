@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use any of the figures or the code, please cite this repository. If you follow research ethics, I will be happy to work with you and to share the code along with the notes."
+title: "The Deuteron on the Light Front"
+authors:
+  - family-names: Puhan
+    given-names: Satyajit
+    email: puhansatyajit@gmail.com
+    affiliation: "Institute of Physics, Academia Sinica, Taipei"
+repository-code: "https://github.com/satyajitpuhan/Deuteron-Light-Front"
